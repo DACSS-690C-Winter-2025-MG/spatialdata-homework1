@@ -2,7 +2,7 @@
 
 Assignment
 Spatial autocorrelation analysis of Lima, Peru using Queen contiguity and KNN (k=8) neighborhood methods.
-["https://colab.research.google.com/drive/11wqSi9lCQ73rdaLbrDtS5Yocc5BtQ_U_?usp=sharing](Google Colab Code Link)
+[Google Colab Code Link]("https://colab.research.google.com/drive/11wqSi9lCQ73rdaLbrDtS5Yocc5BtQ_U_?usp=sharing)
 
 Key Findings
 171 districts analyzed in Lima
